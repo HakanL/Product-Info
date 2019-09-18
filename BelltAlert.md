@@ -1,4 +1,4 @@
-# Bellt Alert - Medical Seat Belt Cover
+## Bellt Alert - Medical Seat Belt Cover
 
 Thank you for your purchase!
 

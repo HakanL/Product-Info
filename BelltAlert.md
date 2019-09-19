@@ -2,10 +2,10 @@
 title: Bellt Alert
 ---
 # Bellt Alert - Medical Seat Belt Cover
-
+  
 
 ### Thank you for your purchase!
-
+  
 
 If you have any questions or comments about the product, please use the contact form managed by the founder of the Bellt Alert, link is [here](https://personalisedbynat.com/pages/contact-us).
 
@@ -22,5 +22,5 @@ The other type is a seller review, and it is primarily to review the shipping an
 You can leave a seller review at this link: [Recent Amazon Orders](https://www.amazon.com/gp/css/order-history)
 
 
-*We really appreciate your help,*
+*We really appreciate your help,*  
 *Hakan and Frida*

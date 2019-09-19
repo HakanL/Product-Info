@@ -5,6 +5,7 @@ title: Bellt Alert
 
 ### Thank you for your purchase!
 
+
 If you have any questions or comments about the product, please use the contact form managed by the founder of the Bellt Alert, link is [here](https://personalisedbynat.com/pages/contact-us).
 
 ---
